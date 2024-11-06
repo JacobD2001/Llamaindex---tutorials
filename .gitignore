@@ -2,3 +2,5 @@
 data
 .vscode
 docs
+chroma_db
+saved_index

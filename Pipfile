@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 llama-index = "*"
+chromadb = "*"
+llama-index-vector-stores-chroma = "*"
 
 [dev-packages]
 
