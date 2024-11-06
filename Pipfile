@@ -7,6 +7,7 @@ name = "pypi"
 llama-index = "*"
 chromadb = "*"
 llama-index-vector-stores-chroma = "*"
+streamlit = "*"
 
 [dev-packages]
 
